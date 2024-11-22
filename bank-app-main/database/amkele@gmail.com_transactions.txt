@@ -1,0 +1,5 @@
+2024-11-21 08:14:40,Deposit,12.0,Deposit to main account,2038.0
+2024-11-21 08:14:46,Deposit,444.0,Deposit to main account,2482.0
+2024-11-21 08:14:54,Withdrawal,33.0,Withdrawal from main account,2449.0
+2024-11-21 08:15:02,Withdrawal,444.0,Withdrawal from main account,2005.0
+2024-11-21 10:19:36,Withdrawal,300.0,Withdrawal from main account,1705.0

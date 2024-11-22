@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow to the card */
+    border-radius: 10px; /* Rounded corners */
+}
+
+.card-header {
+    background-color: #007bff; /* Blue background */
+    color: white;
+    font-size: 1.5rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-footer {
+    background-color: #f1f1f1; /* Light gray footer */
+}
+
+button {
+    font-size: 1rem;
+}
