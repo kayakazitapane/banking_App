@@ -1,0 +1,6 @@
+Savings,0.0
+kay,200.0
+kkay,50.0
+no,200.0
+mayedwa,50.0
+hg,90.0
